@@ -1,16 +1,18 @@
-# Contributing
+<!-- @format -->
 
-Please feel free to contribute to the quality of this content by submitting PR's for improvements to code snippets, explanations, etc. If there's any doubt or if you think that a word/phrase is used confusingly, **before submitting a PR, open an issue to ask about it.**
+# Contribución.
 
-However, if you choose to contribute content (not just typo corrections) to this repo, you agree that you're giving me a non-exclusive license to use that content for the book, as I (and my publisher) deem appropriate. You probably guessed that already, but I just wanted to be extra clear on that.
+Siéntase libre de contribuir a la calidad de este contenido enviando PR para mejorar los fragmentos de código, explicaciones, etc. Si tiene alguna duda o si cree que una palabra / frase se usa de manera confusa, **antes de enviar un PR, abra un problema para preguntar al respecto.**
 
-## Reading Experience (Chapter/Section links, etc)
+Sin embargo, si eliges contribuir con contenido (no solo con correcciones de errores tipográficos) a este repositorio, aceptas que me estás otorgando una licencia no exclusiva para usar ese contenido en el libro, como yo (y mi editor) consideremos apropiado. Probablemente ya lo hayas adivinado, pero solo quería ser más claro al respecto.
 
-I understand that reading one long .md file, with no relative cross links to other sections/etc, is not the preferred reading experience for most of you. As such, it's totally reasonable to want to file an issue/PR to add those kinds of features.
+## Experiencia de lectura (enlaces de capítulo / sección, etc.)
 
-This topic has been brought up many times, and I've considered it. For now, I **do not** accept these kinds of changes into the repo.
+Entiendo que leer un archivo .md largo, sin enlaces cruzados relativos a otras secciones / etc., no es la experiencia de lectura preferida para la mayoría de ustedes. Como tal, es totalmente razonable querer presentar un problema / RP para agregar ese tipo de características.
 
-The main purpose of my book repos is to track and manage the content for the purposes of publication (paid-for ebooks and print books). I do this in the open because I also care about providing free and early access to the content, to make sure there is no paywall barrier to learning.
+Este tema se ha planteado muchas veces y lo he considerado. Por ahora, **no** acepto este tipo de cambios en el repositorio.
+
+El propósito principal de mis repositorios de libros es rastrear y administrar el contenido con fines de publicación (libros electrónicos pagados y libros impresos). Hago esto al aire libre porque también me preocupo por proporcionar acceso gratuito y temprano al contenido, para asegurarme de que no haya barreras de pago para el aprendizaje.
 
 As such, this repo **is not optimized for your reading experience.**
 
@@ -18,10 +20,10 @@ The intended **best reading experience** are the published books (either ebook o
 
 ## Editions
 
-The current edition (*work in progress*) of the books is the 2nd edition. While these 2nd edition books are in progress, contributions are OK, but **there's no need to jump the gun early** while I'm still working on stuff. That's what "work in progress" means. :)
+The current edition (_work in progress_) of the books is the 2nd edition. While these 2nd edition books are in progress, contributions are OK, but **there's no need to jump the gun early** while I'm still working on stuff. That's what "work in progress" means. :)
 
-| NOTE: |
-| :--- |
+| NOTE:                                                                                                                                                                                                                   |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **ALSO**, please note that while a book is in progress, the previous 1st edition text may be included at the bottom of each file, and marked as such. Please ignore this text, as contributions there are not relevant. |
 
 I **am not accepting any contributions** for 1st edition books.
@@ -35,3 +37,4 @@ If you're going to submit a PR for typo fixes, please be measured in doing so by
 ## Search First!
 
 Also, if you have any questions or concerns, please make sure to search the issues (both open and closed!) first, to keep the churn of issues to a minimum. I want to keep my focus on writing these books as much as possible.
+
